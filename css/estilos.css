@@ -1,0 +1,31 @@
+h1{
+    color: white;
+    background-color: tomato;
+    text-align: center;
+}
+nav{
+    text-align: center;
+    overflow: hidden;
+}
+form{
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    height: auto;
+    display:block;
+    margin: 0 auto;
+}
+input{
+    width: 50%;
+    height: 20px;
+}
+input[type="submit"]{
+    height: 50px;
+    font-size: 20px;
+}
+input:focus{
+    background: rgb(230, 116, 101);
+    color: white;
+}
